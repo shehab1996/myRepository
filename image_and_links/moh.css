@@ -1,0 +1,13 @@
+*{
+    margin: 0%;
+    padding: 20px;
+}
+.vonthead{
+    background: gold;
+    padding: 0;
+}
+.sidbarcot{
+    background: gray;
+    padding: 0%;
+    margin: 20px;
+}
